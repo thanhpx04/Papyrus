@@ -13,8 +13,8 @@ And the result of "longest common sub-sequence" is {02231}.
 
 You can test more by following commands:
 
+=> Compile the project: make
+
 => Run the project: ./Papyrus
 
-=> Edit two sequences in "main.cpp" (vectorX and vectorY)
-
-=> Compile the project: make
+You can test more cases by edit two sequences in "main.cpp" (vectorX and vectorY) then clean the project, compile and run.
