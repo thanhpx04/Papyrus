@@ -7,6 +7,7 @@ Y = {0223101133}
 And the result of "longest common sub-sequence" is {02231}.
 
 You can test by following commands:
+
 => Run the project: ./Papyrus
 
 => Edit two sequences in "main.cpp" (vectorX and vectorY)
