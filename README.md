@@ -11,7 +11,9 @@ Y = {0223101133}
 
 And the result of "longest common sub-sequence" is {02231}.
 
-You can test more by following commands:
+----------------------------------------------------------------------------------------------------
+
+To test the algorithm:
 
 => Compile the project: make
 
